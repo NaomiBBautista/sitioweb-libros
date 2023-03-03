@@ -1,2 +1,2 @@
 # sitioweb-libros
-Crear un sitio web de algo que nos gusta, en mi caso es leer.
+Hola soy Naomi! Y voy hacer un sitio web sobre mis libros favoritos.
